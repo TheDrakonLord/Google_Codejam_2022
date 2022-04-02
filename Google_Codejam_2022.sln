@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_Codejam_2022_PunchedCards", "Google_Codejam_2022_PunchedCards\Google_Codejam_2022_PunchedCards.csproj", "{F1E38D73-98D1-4936-837F-CDE790DFEEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_Codejam_2022_3DPrinting", "Google_Codejam_2022_3DPrinting\Google_Codejam_2022_3DPrinting.csproj", "{266D9BA6-5DDF-41A3-BBF1-8B8A8C863643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_Codejam_2022_d1000000", "Google_Codejam_2022_d1000000\Google_Codejam_2022_d1000000.csproj", "{7F367C10-CB79-448C-B4F3-0D64860ED39C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_Codejam_2022_ChainReactions", "Google_Codejam_2022_ChainReactions\Google_Codejam_2022_ChainReactions.csproj", "{D47C32E4-9805-435A-B997-C50B43CC1DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_Codejam_2022_TwistyLittlePassages", "Google_Codejam_2022_TwistyLittlePassages\Google_Codejam_2022_TwistyLittlePassages.csproj", "{F8C3E92E-4209-4316-8CC6-07E9A8637942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E38D73-98D1-4936-837F-CDE790DFEEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E38D73-98D1-4936-837F-CDE790DFEEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E38D73-98D1-4936-837F-CDE790DFEEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E38D73-98D1-4936-837F-CDE790DFEEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266D9BA6-5DDF-41A3-BBF1-8B8A8C863643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266D9BA6-5DDF-41A3-BBF1-8B8A8C863643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266D9BA6-5DDF-41A3-BBF1-8B8A8C863643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266D9BA6-5DDF-41A3-BBF1-8B8A8C863643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F367C10-CB79-448C-B4F3-0D64860ED39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F367C10-CB79-448C-B4F3-0D64860ED39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F367C10-CB79-448C-B4F3-0D64860ED39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F367C10-CB79-448C-B4F3-0D64860ED39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47C32E4-9805-435A-B997-C50B43CC1DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47C32E4-9805-435A-B997-C50B43CC1DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47C32E4-9805-435A-B997-C50B43CC1DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47C32E4-9805-435A-B997-C50B43CC1DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C3E92E-4209-4316-8CC6-07E9A8637942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C3E92E-4209-4316-8CC6-07E9A8637942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C3E92E-4209-4316-8CC6-07E9A8637942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C3E92E-4209-4316-8CC6-07E9A8637942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B101EA45-50F6-4B40-A68D-1AE165D2EE56}
+	EndGlobalSection
+EndGlobal
